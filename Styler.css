@@ -26,7 +26,12 @@
 }
 
 body{
-    background: var(--bg--url) no-repeat top center /cover;
+    background: var(--bg--url) no-repeat top center /cover; 
+    background-size: cover;  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh;
+    margin: 0;
 }
 
 body * {
