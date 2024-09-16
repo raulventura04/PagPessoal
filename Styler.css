@@ -17,7 +17,7 @@
 
 .light{
     --text-color: black;
-    --bg--url: url(./assets/bs.jpg);
+    --bg--url: url(./assets/bg-mobile-light.jpg);
     --stroke-color: rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.1);
     --surface-color-hover: rgba(0, 0, 0, 0.2);
